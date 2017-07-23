@@ -28,4 +28,4 @@ Votre référence est le ﬁchier screenshot.png et screenshot.jpg.
 
 # Rendu 
 
-Travailler d'abord sur la partie html. N’hésitez pas à rendre un travail incomplet même si vous avez eu l’un ou l’autre blocage. 
+Travaillez d'abord sur la partie html. N’hésitez pas à rendre un travail incomplet même si vous avez eu un quelconque blocage. 
